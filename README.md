@@ -89,8 +89,8 @@ Mahasiswa ke-2 lulus!
 ```
 
 ### Jawaban
-1. 
-2. 
+1. Tidak ada yang berubah, hal ini dikarenakan nama array yang diikuti dengan `.length` akan mendapatkan value panjang sebuah array, di kasus ini, nilai 10 yang ada sebelumnya sama dengan panjang array `nilaiAkhir`.
+2. kondisi `i < nilaiAkhir.length` adalah kondisi yang mengecek perbandingan antara nilai `i` dan panjang dari array `nilaiAkhir`, kondisi yang di-cek adalah apakah nilai `i` memiliki nilai yang lebih kecil dari nilai `nilaiAkhir.length` berupa nilai panjang array.
 3. 
 4. 
 
