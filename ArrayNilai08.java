@@ -9,7 +9,7 @@ public class ArrayNilai08 {
        nilaiAkhir[i]=sc.nextInt(); 
     }
     for (int i = 0; i < 10; i++) {
-        System.out.println("Nilai kahir ke-"+i+" adalah "+nilaiAkhir[i]);
+        System.out.println("Nilai akhir ke-"+i+" adalah "+nilaiAkhir[i]);
     }
     sc.close();
   }
