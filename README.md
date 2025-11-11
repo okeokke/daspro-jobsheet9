@@ -93,7 +93,9 @@ Mahasiswa ke-2 lulus!
 1. Tidak ada yang berubah, hal ini dikarenakan nama array yang diikuti dengan `.length` akan mendapatkan value panjang sebuah array, di kasus ini, nilai 10 yang ada sebelumnya sama dengan panjang array `nilaiAkhir`.
 2. kondisi `i < nilaiAkhir.length` adalah kondisi yang mengecek perbandingan antara nilai `i` dan panjang dari array `nilaiAkhir`, kondisi yang di-cek adalah apakah nilai `i` memiliki nilai yang lebih kecil dari nilai `nilaiAkhir.length` berupa nilai panjang array.
 3. Program meminta 10 nilai akhir lalu menyimpannya berurutan ke dalam array melalui loop pertama. Setelah loop input selesai, loop ke-2 mengecek setiap nilai indeks, indeks dengan nilai lebih dari 70 dicetak sebagai lulus. Nilai kurang dari atau sama dengan 70 dilewati.
-4. 
+4. [ArrayNilai08.java](/ArrayNilai08.java)\
+(Cek Commit ke-9 / Commit sesudah 5255a3b)\
+![Screenshot hasil pengerjaan pertanyaan No.4](/SS_N4P2.png)
 
 
 
