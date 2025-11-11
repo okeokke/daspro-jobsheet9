@@ -39,8 +39,18 @@ Apa keluaran dari program? Jelaskan maksud dari statement tersebut.
 ### Jawaban
 1. untuk entry 1 dan 3 masih bisa diterima program, tetapi untuk entri 0 dan 2 tidak bisa karena value 5.0 dan 7.5 merupakan tipe data double yang tidak bisa digunakan pada array yang menggunakan tipe data integer kecuali dilakukan narrowing casting.
 2. 
-3. 
-4. 
+```java
+int[] bil = {5, 13, -7, 17};
+```
+3. output :
+```
+5
+13
+-7
+17
+```
+fungsi `for (int i = 0; i < 4; i++)` adalah untuk mengulang indeks 0-3 dan mengeksekusi setiap i yang diupdate selama masih sesuai kondisi dengan mencetak setiap elemen array.
+4. loop mencoba mengakses indeks array bil[4]. dimana inndeks ke-4 tidak ada (ukuran array 4, indeks valid 0-3) yang menyebabkan error ArrayIndexOutOfBoundsException
 
 
 ## Percobaan 2
