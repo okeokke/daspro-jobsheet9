@@ -120,11 +120,13 @@ Rata-rata nilai tidak lulus = 62.5
 ```
 
 ### Jawaban
-1. [ArrayRataNilai08.java](/ArrayRataNilai08.java) (Commit 11)
+1. [ArrayRataNilai08.java.](/ArrayRataNilai08.java)\
+[(Commit 11/d50b003)](https://github.com/okeokke/daspro-jobsheet9/commit/d50b00315ab0770cad1099fc8ee366a4fd2090d0)\
 ![Screenshot hasil pengerjaan No.1](/SS_N1P3.png)
 
-2. 
-
+2. [ArrayRataNilai08.java](/ArrayRataNilai08.java)\
+[(Commit 12 / c6cddd7)](https://github.com/okeokke/daspro-jobsheet9/commit/c6cddd7bc4d46860572c137f2c81227ee99bd2f5)\
+![Screenshot hasil pengerjaan No.2](/SS_N2P3.png)
 
 
 ## Percobaan 4
