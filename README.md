@@ -132,6 +132,7 @@ Rata-rata nilai tidak lulus = 62.5
 ## Percobaan 4
 [SearchNilai08.java](/SearchNilai08.java)
 (Pastikan periksa commit history dan deskripsi commit)\
+[Kondisi Initial SearchNilai08.java Sebelum Pertanyaan Percobaan.](https://github.com/okeokke/daspro-jobsheet9/commit/3ef3e5402bed3066be175302e858e9782c000861)
 
 ### Pertanyaan
 1. Jelaskan maksud dari statement break; pada baris ke-10 kode program percobaan 4 di atas.
@@ -167,6 +168,6 @@ Nilai yang dicari tidak ditemukan
 ```
 
 ### Jawaban
-1. 
+1. `break` menghentikan loop secara langsung tanpa loop memeriksa kondisi dan meneruskan program setelah break pada loop.
 2. 
 3. 
