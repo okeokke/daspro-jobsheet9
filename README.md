@@ -22,9 +22,10 @@
 
 
 ## Percobaan 1
-<!-- [ArrayBilangan08.java](/ArrayBilangan08.java) -->
+[ArrayBilangan08.java](/ArrayBilangan08.java)
+(Pastikan periksa commit history dan deskripsi commit)
 ### Pertanyaan
-1. JJika isi masing-masing elemen array bil diubah dengan angka 5.0, 12867, 7.5, 2000000. Apa yang terjadi? Mengapa bisa demikian? 
+1. Jika isi masing-masing elemen array bil diubah dengan angka 5.0, 12867, 7.5, 2000000. Apa yang terjadi? Mengapa bisa demikian? 
 2. Modifikasi kode program di atas dengan melakukan inisialisasi elemen array sekaligus pada saat deklarasi array.
 3. Ubah statement pada langkah No 4 menjadi seperti berikut 
 ```java
@@ -36,7 +37,10 @@ Apa keluaran dari program? Jelaskan maksud dari statement tersebut.
 4. Jika kondisi pada statement for-loop di atas diubah menjadi:  i <= 4, apa keluaran dari program? Mengapa demikian? 
 
 ### Jawaban
--
+1. untuk entry 1 dan 3 masih bisa diterima program, tetapi untuk entri 0 dan 2 tidak bisa karena value 5.0 dan 7.5 merupakan tipe data double yang tidak bisa digunakan pada array yang menggunakan tipe data integer kecuali dilakukan narrowing casting.
+2. 
+3. 
+4. 
 
 
 ## Percobaan 2
