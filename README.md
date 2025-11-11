@@ -130,8 +130,8 @@ Rata-rata nilai tidak lulus = 62.5
 
 
 ## Percobaan 4
-<!-- [SearchNilai08.java](/SearchNilai08.java) -->
-<!-- (Pastikan periksa commit history dan deskripsi commit)\ -->
+[SearchNilai08.java](/SearchNilai08.java)
+(Pastikan periksa commit history dan deskripsi commit)\
 
 ### Pertanyaan
 1. Jelaskan maksud dari statement break; pada baris ke-10 kode program percobaan 4 di atas.
