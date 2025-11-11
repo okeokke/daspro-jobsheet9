@@ -55,7 +55,8 @@ fungsi `for (int i = 0; i < 4; i++)` adalah untuk mengulang indeks 0-3 dan menge
 
 ## Percobaan 2
 [ArrayNilai08.java](/ArrayNilai08.java)\
-(Pastikan periksa commit history dan deskripsi commit)
+(Pastikan periksa commit history dan deskripsi commit)\
+[Kondisi Initial ArrayNilai08.java Sebelum Pertanyaan Percobaan.](https://github.com/okeokke/daspro-jobsheet9/commit/2ff79138b73749aa772974acf2118310636c35c1)
 ### Pertanyaan
 1. Ubah statement pada langkah nomor 5 menjadi seperti berikut ini: 
 ```java
@@ -94,14 +95,14 @@ Mahasiswa ke-2 lulus!
 2. kondisi `i < nilaiAkhir.length` adalah kondisi yang mengecek perbandingan antara nilai `i` dan panjang dari array `nilaiAkhir`, kondisi yang di-cek adalah apakah nilai `i` memiliki nilai yang lebih kecil dari nilai `nilaiAkhir.length` berupa nilai panjang array.
 3. Program meminta 10 nilai akhir lalu menyimpannya berurutan ke dalam array melalui loop pertama. Setelah loop input selesai, loop ke-2 mengecek setiap nilai indeks, indeks dengan nilai lebih dari 70 dicetak sebagai lulus. Nilai kurang dari atau sama dengan 70 dilewati.
 4. [ArrayNilai08.java](/ArrayNilai08.java)\
-(Cek Commit ke-9 / Commit sesudah 5255a3b)\
+[(Cek Commit ke-9 / Commit 093f154)](https://github.com/okeokke/daspro-jobsheet9/commit/093f1549280a45d097572a3baf28017c7333314d)\
 ![Screenshot hasil pengerjaan pertanyaan No.4](/SS_N4P2.png)
 
 
 
 ## Percobaan 3
-<!-- [ArrayRataNilai08.java](/ArrayRataNilai08.java)\ -->
-<!-- (Cek commit history karena ada update pada file untuk menjawab pertanyaan percobaan 3) -->
+[ArrayRataNilai08.java](/ArrayRataNilai08.java)\
+(Pastikan periksa commit history dan deskripsi commit)\
 
 ### Pertanyaan
 1. Modifikasi  kode  program  pada  praktikum  percobaan  3  di  atas  (ArrayRataNilaiXX.java) agar  program  dapat  menampilkan  banyaknya  mahasiswa  yang  lulus,  yaitu  mahasiswa yang memiliki lebih besar dari 70 (>70). 
@@ -125,6 +126,7 @@ Rata-rata nilai tidak lulus = 62.5
 
 ## Percobaan 4
 <!-- [SearchNilai08.java](/SearchNilai08.java) -->
+<!-- (Pastikan periksa commit history dan deskripsi commit)\ -->
 
 ### Pertanyaan
 1. Jelaskan maksud dari statement break; pada baris ke-10 kode program percobaan 4 di atas.
