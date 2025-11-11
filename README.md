@@ -103,6 +103,7 @@ Mahasiswa ke-2 lulus!
 ## Percobaan 3
 [ArrayRataNilai08.java](/ArrayRataNilai08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
+[Kondisi Initial ArrayRataNilai08.java Sebelum Pertanyaan Percobaan.](https://github.com/okeokke/daspro-jobsheet9/commit/94e90f2ae7f644a48ad6785c64d55f0002243921)
 
 ### Pertanyaan
 1. Modifikasi  kode  program  pada  praktikum  percobaan  3  di  atas  (ArrayRataNilaiXX.java) agar  program  dapat  menampilkan  banyaknya  mahasiswa  yang  lulus,  yaitu  mahasiswa yang memiliki lebih besar dari 70 (>70). 
@@ -119,7 +120,9 @@ Rata-rata nilai tidak lulus = 62.5
 ```
 
 ### Jawaban
-1. 
+1. [ArrayRataNilai08.java](/ArrayRataNilai08.java) (Commit 11)
+![Screenshot hasil pengerjaan No.1](/SS_N1P3.png)
+
 2. 
 
 
