@@ -22,7 +22,7 @@
 
 
 ## Percobaan 1
-[ArrayBilangan08.java](/ArrayBilangan08.java)
+[ArrayBilangan08.java](/ArrayBilangan08.java)\
 (Pastikan periksa commit history dan deskripsi commit)
 ### Pertanyaan
 1. Jika isi masing-masing elemen array bil diubah dengan angka 5.0, 12867, 7.5, 2000000. Apa yang terjadi? Mengapa bisa demikian? 
@@ -54,7 +54,8 @@ fungsi `for (int i = 0; i < 4; i++)` adalah untuk mengulang indeks 0-3 dan menge
 
 
 ## Percobaan 2
-[ArrayNilai08.java](/ArrayNilai08.java)
+[ArrayNilai08.java](/ArrayNilai08.java)\
+(Pastikan periksa commit history dan deskripsi commit)
 ### Pertanyaan
 1. Ubah statement pada langkah nomor 5 menjadi seperti berikut ini: 
 ```java
@@ -91,7 +92,7 @@ Mahasiswa ke-2 lulus!
 ### Jawaban
 1. Tidak ada yang berubah, hal ini dikarenakan nama array yang diikuti dengan `.length` akan mendapatkan value panjang sebuah array, di kasus ini, nilai 10 yang ada sebelumnya sama dengan panjang array `nilaiAkhir`.
 2. kondisi `i < nilaiAkhir.length` adalah kondisi yang mengecek perbandingan antara nilai `i` dan panjang dari array `nilaiAkhir`, kondisi yang di-cek adalah apakah nilai `i` memiliki nilai yang lebih kecil dari nilai `nilaiAkhir.length` berupa nilai panjang array.
-3. 
+3. Program meminta 10 nilai akhir lalu menyimpannya berurutan ke dalam array melalui loop pertama. Setelah loop input selesai, loop ke-2 mengecek setiap nilai indeks, indeks dengan nilai lebih dari 70 dicetak sebagai lulus. Nilai kurang dari atau sama dengan 70 dilewati.
 4. 
 
 
