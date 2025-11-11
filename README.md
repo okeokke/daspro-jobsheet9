@@ -49,7 +49,7 @@ int[] bil = {5, 13, -7, 17};
 -7
 17
 ```
-fungsi `for (int i = 0; i < 4; i++)` adalah untuk mengulang indeks 0-3 dan mengeksekusi setiap i yang diupdate selama masih sesuai kondisi dengan mencetak setiap elemen array.
+fungsi `for (int i = 0; i < 4; i++)` adalah untuk mengulang indeks 0-3 dan mengeksekusi setiap i yang diupdate selama masih sesuai kondisi dengan mencetak setiap elemen array.\
 4. loop mencoba mengakses indeks array bil[4]. dimana inndeks ke-4 tidak ada (ukuran array 4, indeks valid 0-3) yang menyebabkan error ArrayIndexOutOfBoundsException
 
 
