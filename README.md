@@ -33,7 +33,7 @@ for (int i = 0; i < 4; i++) {
     System.out.println(bil[i]);
 }
 ```
-Apa keluaran dari program? Jelaskan maksud dari statement tersebut.
+Apa keluaran dari program? Jelaskan maksud dari statement tersebut.\
 4. Jika kondisi pada statement for-loop di atas diubah menjadi:  i <= 4, apa keluaran dari program? Mengapa demikian? 
 
 ### Jawaban
@@ -54,7 +54,7 @@ fungsi `for (int i = 0; i < 4; i++)` adalah untuk mengulang indeks 0-3 dan menge
 
 
 ## Percobaan 2
-<!-- [ArrayNilai08.java](/ArrayNilai08.java) -->
+[ArrayNilai08.java](/ArrayNilai08.java)
 ### Pertanyaan
 1. Ubah statement pada langkah nomor 5 menjadi seperti berikut ini: 
 ```java
@@ -115,7 +115,9 @@ Rata-rata nilai tidak lulus = 62.5
 ```
 
 ### Jawaban
--
+1. 
+2. 
+
 
 
 ## Percobaan 4
@@ -155,4 +157,6 @@ Nilai yang dicari tidak ditemukan
 ```
 
 ### Jawaban
--
+1. 
+2. 
+3. 
