@@ -169,5 +169,5 @@ Nilai yang dicari tidak ditemukan
 
 ### Jawaban
 1. `break` menghentikan loop secara langsung tanpa loop memeriksa kondisi dan meneruskan program setelah break pada loop.
-2. 
-3. 
+2. 3. (2 dan 3 Digabung) [SearchNilai08.java](/SearchNilai08.java)
+![Screenshot hasil pengerjaan No.2 dan 3](/SS_N2-N3_P4.png)
