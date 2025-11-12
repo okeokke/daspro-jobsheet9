@@ -1,7 +1,8 @@
-<!-- # TUGAS
+# TUGAS
 ### TUGAS 1
-[Tugas1 / T1Job9_08.java](/T1Job9_08.java)
-### TUGAS 2
+[Tugas1 / T1Job9_08.java](/T1Job9_08.java)\
+![Screenshot Output Tugas 1](/SS_T1J9.png)
+<!-- ### TUGAS 2
 [Tugas2 / T2Job9_08.java](/T2Job9_08.java)
 ### TUGAS 3
 [Tugas3 / T3Job9_08.java](/T3Job9_08.java) -->
@@ -169,5 +170,6 @@ Nilai yang dicari tidak ditemukan
 
 ### Jawaban
 1. `break` menghentikan loop secara langsung tanpa loop memeriksa kondisi dan meneruskan program setelah break pada loop.
-2. 3. (2 dan 3 Digabung) [SearchNilai08.java](/SearchNilai08.java)
+2. 3. (2 dan 3 Digabung) [SearchNilai08.java](/SearchNilai08.java)\
+[Commit 17 / Commit 8bc3d1c](https://github.com/okeokke/daspro-jobsheet9/commit/8bc3d1c4ec6cf706478888fb299803521afef196)
 ![Screenshot hasil pengerjaan No.2 dan 3](/SS_N2-N3_P4.png)
