@@ -1,12 +1,16 @@
 # TUGAS
 ### TUGAS 1
 [Tugas1 / T1Job9_08.java](/T1Job9_08.java)\
+Contoh output\
 ![Screenshot Output Tugas 1](/SS_T1J9.png)
 ### TUGAS 2
 [Tugas2 / T2Job9_08.java](/T2Job9_08.java)\
+Contoh output\
 ![Screenshot Output Tugas 2](/SS_T2J9.png)
-<!-- ### TUGAS 3
-[Tugas3 / T3Job9_08.java](/T3Job9_08.java) -->
+### TUGAS 3
+[Tugas3 / T3Job9_08.java](/T3Job9_08.java)\
+Contoh output\
+![Screenshot Output Tugas 3](/SS_T3J9.png)
 
 # Percobaan
 1. [Percobaan 1](#percobaan-1)
@@ -25,7 +29,8 @@
 
 ## Percobaan 1
 [ArrayBilangan08.java](/ArrayBilangan08.java)\
-(Pastikan periksa commit history dan deskripsi commit)
+(Pastikan periksa commit history dan deskripsi commit)\
+[Kondisi Initial ArrayBilangan08.java Sebelum Pertanyaan Percobaan. (Commit 7dcc6ba)](https://github.com/okeokke/daspro-jobsheet9/commit/7dcc6bab3c94c30af9d28595608c9b3261fbe848)
 ### Pertanyaan
 1. Jika isi masing-masing elemen array bil diubah dengan angka 5.0, 12867, 7.5, 2000000. Apa yang terjadi? Mengapa bisa demikian? 
 2. Modifikasi kode program di atas dengan melakukan inisialisasi elemen array sekaligus pada saat deklarasi array.
@@ -58,7 +63,7 @@ fungsi `for (int i = 0; i < 4; i++)` adalah untuk mengulang indeks 0-3 dan menge
 ## Percobaan 2
 [ArrayNilai08.java](/ArrayNilai08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-[Kondisi Initial ArrayNilai08.java Sebelum Pertanyaan Percobaan.](https://github.com/okeokke/daspro-jobsheet9/commit/2ff79138b73749aa772974acf2118310636c35c1)
+[Kondisi Initial ArrayNilai08.java Sebelum Pertanyaan Percobaan. (Commit 2ff7913)](https://github.com/okeokke/daspro-jobsheet9/commit/2ff79138b73749aa772974acf2118310636c35c1)
 ### Pertanyaan
 1. Ubah statement pada langkah nomor 5 menjadi seperti berikut ini: 
 ```java
@@ -98,6 +103,7 @@ Mahasiswa ke-2 lulus!
 3. Program meminta 10 nilai akhir lalu menyimpannya berurutan ke dalam array melalui loop pertama. Setelah loop input selesai, loop ke-2 mengecek setiap nilai indeks, indeks dengan nilai lebih dari 70 dicetak sebagai lulus. Nilai kurang dari atau sama dengan 70 dilewati.
 4. [ArrayNilai08.java](/ArrayNilai08.java)\
 [(Cek Commit ke-9 / Commit 093f154)](https://github.com/okeokke/daspro-jobsheet9/commit/093f1549280a45d097572a3baf28017c7333314d)\
+Screenshot hasil pengerjaan pertanyaan No.4\
 ![Screenshot hasil pengerjaan pertanyaan No.4](/SS_N4P2.png)
 
 
@@ -105,7 +111,7 @@ Mahasiswa ke-2 lulus!
 ## Percobaan 3
 [ArrayRataNilai08.java](/ArrayRataNilai08.java)\
 (Pastikan periksa commit history dan deskripsi commit)\
-[Kondisi Initial ArrayRataNilai08.java Sebelum Pertanyaan Percobaan.](https://github.com/okeokke/daspro-jobsheet9/commit/94e90f2ae7f644a48ad6785c64d55f0002243921)
+[Kondisi Initial ArrayRataNilai08.java Sebelum Pertanyaan Percobaan. (Commit 94e90f2)](https://github.com/okeokke/daspro-jobsheet9/commit/94e90f2ae7f644a48ad6785c64d55f0002243921)
 
 ### Pertanyaan
 1. Modifikasi  kode  program  pada  praktikum  percobaan  3  di  atas  (ArrayRataNilaiXX.java) agar  program  dapat  menampilkan  banyaknya  mahasiswa  yang  lulus,  yaitu  mahasiswa yang memiliki lebih besar dari 70 (>70). 
@@ -124,17 +130,19 @@ Rata-rata nilai tidak lulus = 62.5
 ### Jawaban
 1. [ArrayRataNilai08.java.](/ArrayRataNilai08.java)\
 [(Commit 11/d50b003)](https://github.com/okeokke/daspro-jobsheet9/commit/d50b00315ab0770cad1099fc8ee366a4fd2090d0)\
+Screenshot hasil pengerjaan No.1\
 ![Screenshot hasil pengerjaan No.1](/SS_N1P3.png)
 
 2. [ArrayRataNilai08.java](/ArrayRataNilai08.java)\
 [(Commit 12 / c6cddd7)](https://github.com/okeokke/daspro-jobsheet9/commit/c6cddd7bc4d46860572c137f2c81227ee99bd2f5)\
+Screenshot hasil pengerjaan No.2\
 ![Screenshot hasil pengerjaan No.2](/SS_N2P3.png)
 
 
 ## Percobaan 4
 [SearchNilai08.java](/SearchNilai08.java)
 (Pastikan periksa commit history dan deskripsi commit)\
-[Kondisi Initial SearchNilai08.java Sebelum Pertanyaan Percobaan.](https://github.com/okeokke/daspro-jobsheet9/commit/3ef3e5402bed3066be175302e858e9782c000861)
+[Kondisi Initial SearchNilai08.java Sebelum Pertanyaan Percobaan. (Commit 3ef3e54)](https://github.com/okeokke/daspro-jobsheet9/commit/3ef3e5402bed3066be175302e858e9782c000861)
 
 ### Pertanyaan
 1. Jelaskan maksud dari statement break; pada baris ke-10 kode program percobaan 4 di atas.
@@ -172,5 +180,6 @@ Nilai yang dicari tidak ditemukan
 ### Jawaban
 1. `break` menghentikan loop secara langsung tanpa loop memeriksa kondisi dan meneruskan program setelah break pada loop.
 2. 3. (2 dan 3 Digabung) [SearchNilai08.java](/SearchNilai08.java)\
-[Commit 17 / Commit 8bc3d1c](https://github.com/okeokke/daspro-jobsheet9/commit/8bc3d1c4ec6cf706478888fb299803521afef196)
+[Commit 17 / Commit 8bc3d1c](https://github.com/okeokke/daspro-jobsheet9/commit/8bc3d1c4ec6cf706478888fb299803521afef196)\
+Screenshot hasil pengerjaan No.2 dan 3\
 ![Screenshot hasil pengerjaan No.2 dan 3](/SS_N2-N3_P4.png)
