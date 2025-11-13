@@ -2,9 +2,10 @@
 ### TUGAS 1
 [Tugas1 / T1Job9_08.java](/T1Job9_08.java)\
 ![Screenshot Output Tugas 1](/SS_T1J9.png)
-<!-- ### TUGAS 2
-[Tugas2 / T2Job9_08.java](/T2Job9_08.java)
-### TUGAS 3
+### TUGAS 2
+[Tugas2 / T2Job9_08.java](/T2Job9_08.java)\
+![Screenshot Output Tugas 2](/SS_T2J9.png)
+<!-- ### TUGAS 3
 [Tugas3 / T3Job9_08.java](/T3Job9_08.java) -->
 
 # Percobaan
